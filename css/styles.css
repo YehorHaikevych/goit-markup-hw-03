@@ -77,6 +77,10 @@ cursor: pointer;
 background-color: #404BBF;
 
 }
+
+.container {
+    border: ;
+}
 .our-benefits {
 font-weight: 700;
 font-size: 36px;
@@ -84,7 +88,8 @@ line-height: 1.11;
     letter-spacing: 0.02em;
     color: #2e2f42;
     text-align: center;
-    text-transform: capitalizeж
+    text-transform: capitalize;
+    display: flex;
 }
 .our-benefits-benefits {
 font-weight: 500;
